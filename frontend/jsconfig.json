@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "allowSyntheticDefaultImports": true,
+    "module": "ES2015",
+    "moduleResolution": "node" // 告诉 VS Code 使用 Node.js 的模块解析策略
+  }
+}
